@@ -26,4 +26,4 @@ Da-da mi animeshki.
 <div align="center">
 
 __ТАКОЙ ВОТ__
-<img src="https://i.yapx.ru/VXC0o.png">
+<img src="https://i.yapx.ru/VXC0o.png"># orogin
