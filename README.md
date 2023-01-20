@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ip1.anime-pictures.net/direct-images/11a/11a49440d3539ddb29e51fa5c8f342e5.jpeg?if=ANIME-PICTURES.NET_-_649958-7008x3938-azur+lane-atago+%28azur+lane%29-j+yak47-single-long+hair-looking+at+viewer.jpeg" width="540px" height="300px" />
+![imege] (https://ip1.anime-pictures.net/direct-images/11a/11a49440d3539ddb29e51fa5c8f342e5.jpeg?if=ANIME-PICTURES.NET_-_649958-7008x3938-azur+lane-atago+%28azur+lane%29-j+yak47-single-long+hair-looking+at+viewer.jpeg)
 
 # warships
 The "warships" training project
@@ -26,4 +26,4 @@ Da-da mi animeshki.
 <div align="center">
 
 __ТАКОЙ ВОТ__
-<img src="https://i.yapx.ru/VXC0o.png"># orogin
+![image](https://i.yapx.ru/VXC0o.png)
